@@ -1,0 +1,13 @@
+.acessorio__botao {
+    background: #242424;
+    border: none;
+    border-radius: 5px;
+    color: #fcce00;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.acessorio__botao:hover {
+    background: #000000;
+    cursor: pointer;
+}
